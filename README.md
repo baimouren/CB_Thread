@@ -1,2 +1,4 @@
 # CB_Thread
-线程相关项目代码
+
+《java并发编程从入门到精通》
+ ![image](https://github.com/baimouren/CB_Thread/blob/master/Book/1538126800.jpg)
